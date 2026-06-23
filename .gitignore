@@ -1,0 +1,29 @@
+*~
+.DS*
+*.a
+*.o
+.nfs*
+*#
+#*
+
+# Compiled binaries
+crawler/crawler
+indexer/indexer
+indexer/step2_query
+querier/query
+querier/step2_query
+test/test_pageio
+test/test_indexio
+
+# Test output data
+test_normalize.txt
+test_words.txt
+crawler/test_files/
+crawler/test_files2/
+crawler/pages-depth3/
+crawler/pages-depth3.tar
+indexer/test_files/
+indexer/indexnm
+test/1
+test/indexnm_test
+test/output_index
