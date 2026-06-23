@@ -78,6 +78,6 @@ cd ../querier && make
 
 Built for Dartmouth COSC50/ENGS50 (Fall 2023).
 Primary author: **Marina Frayre**
-Collaborators: **Derek Pickell**, **Avery** (lab partners)
+Collaborators: **Derek**, **Avery** (lab partners)
 
 Course-provided modules: `webpage.c/h` (Stephen Taylor), `pageio.h` interface (Stephen Taylor)
